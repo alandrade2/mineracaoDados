@@ -1,6 +1,7 @@
 # Trabalho de Mineração de dados - Analise de Regressão e de Classificação
 
 PROJETO AVALIATIVO 1º BIMESTRE LAB. DES. MULTIPLATAFORMA - 6º DSM
+
 Disciplina - #Mineração de Dados
 
 
